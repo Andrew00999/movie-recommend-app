@@ -1,1 +1,0 @@
-alert("hello folder 2")
